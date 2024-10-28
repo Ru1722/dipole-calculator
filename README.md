@@ -5,7 +5,7 @@ Simple dipole calculator written in c++
 N/A
 
 # HOW TO COMPILE
-1.) Copy github repository into the directory you wish it to be in
+1.) Copy github repository into the directory you wish it to be in <br>
 2.) Use g++ and use the following command without quotation marks:
   g++ dipole.cpp -o dipole
 
